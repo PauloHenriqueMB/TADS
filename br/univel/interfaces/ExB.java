@@ -1,4 +1,5 @@
 package br.univel.interfaces;
+/* Exercicio B */
 
 public class ExB implements Desenho {
 
