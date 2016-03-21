@@ -1,5 +1,5 @@
 package br.univel.interfaces;
-
+/* Exercicio A */
 public class ExA implements Desenho {
 
 	public static int ALTURA = 8;
