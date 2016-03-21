@@ -1,5 +1,5 @@
 package br.univel.interfaces;
-
+/* Exercicio C */
 public class ExC implements Desenho {
 
 	public static int ALTURA = 8;
