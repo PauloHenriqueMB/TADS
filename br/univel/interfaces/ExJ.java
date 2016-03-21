@@ -1,5 +1,5 @@
 package br.univel.interfaces;
-
+/* Exercicio J */
 public class ExJ implements Desenho {
 
 	public static int SIZE = 13;
